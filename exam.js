@@ -3,7 +3,6 @@ const read = require('./read');
 const present = require('./present');
 const add = require('./add');
 const employee = require('./employee');
-
 const data = process.argv;
 
 var note = {}
